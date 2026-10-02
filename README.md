@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="DEMON_CUBA — DMN_ENGINE" width="100%">
+  <img src="banner.png" alt="DMN_ENGINE" width="100%">
 </p>
 
 <p align="center">
@@ -7,7 +7,7 @@
   <a href="https://demonshop2025.mysellauth.com/"><img alt="DMN_SHOP" src="https://img.shields.io/badge/DMN__SHOP-store-0b7dd8?style=for-the-badge"></a>
 </p>
 
-### 👋 Hola, soy Demon
+### 👋 Hola, soy DMN_ENGINE
 
 Maker y developer 🇨🇺. Construyo **agentes de IA**, apps de escritorio, bots y hardware, desde el código hasta la pieza impresa en 3D.
 
