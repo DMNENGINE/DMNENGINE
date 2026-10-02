@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="DMN_ENGINE" width="100%">
+  <img src="banner-dmn.png" alt="DMN_ENGINE" width="100%">
 </p>
 
 <p align="center">
